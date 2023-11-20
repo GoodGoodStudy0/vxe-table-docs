@@ -1,6 +1,6 @@
 <template>
   <div>
-    <vxe-input v-model="val1" placeholder="季选择" type="quarter" clearable></vxe-input>
+    <vxe-input v-model="val1" placeholder="年选择" type="year" clearable></vxe-input>
   </div>
 </template>
 
